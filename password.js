@@ -1,3 +1,5 @@
+// I could have used a charAt
+
 var args = process.argv;
 var originalPassword = process.argv[2];
 
